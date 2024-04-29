@@ -44,7 +44,7 @@ $ beamup testfile.bin -d
 To set a private ACL:
 
 ```
-$ beamup testfile.bin -d
+$ beamup testfile.bin -p
 ```
 
 Full options:
